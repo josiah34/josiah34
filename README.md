@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 my name is Josiah Galloway</a></h1>
 <h3 align="center">Devops Developer and Cyber Security Enthusiast from Toronto, Canada </h3>
 <div align="center">
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/josiah-galloway/">
+<a style="margin-left: 10px;"  target="_blank" href="https://tryhackme.com/p/joe37">
 	<img src="https://tryhackme-badges.s3.amazonaws.com/joe37.png" alt="TryHackMe"></a>
  </div>
 <!-- <p align="center">
