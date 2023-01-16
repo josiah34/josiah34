@@ -26,7 +26,6 @@
 
 </p>
 
-<footer>2022</footer>
 <!--
 **josiah34/josiah34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
