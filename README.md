@@ -7,7 +7,7 @@
  
  <div align="center">
  
-![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiah34&show_icons=true&theme=radical)
+![Josiah's GitHub stats](https://github-readme-stats-gz38mg8at-josiah34.vercel.app/api?username=josiah34&show_icons=true&theme=radical)
  
 </div>
 <!-- <p align="center">
