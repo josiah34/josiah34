@@ -4,6 +4,12 @@
 <a style="margin-left: 10px;"  target="_blank" href="https://tryhackme.com/p/joe37">
 	<img src="https://tryhackme-badges.s3.amazonaws.com/joe37.png" alt="TryHackMe"></a>
  </div>
+ 
+ <div align="center">
+ 
+![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiah34&show_icons=true&theme=radical)
+ 
+</div>
 <!-- <p align="center">
  I'm passionate about Devops and Cyber Security. 
   
@@ -17,7 +23,6 @@
 - :nerd_face: Always `learning new things`
 
 <br>
-
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
