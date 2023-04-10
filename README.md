@@ -7,7 +7,7 @@
  
  <div align="center">
 
-![Josiah's GitHub stats](https://github-readme-stats-h1c88ybi9-josiah34.vercel.app/api?username=josiah34&show_icons=true&theme=radical)
+![Josiah's GitHub stats](https://github-readme-stats-josiah34.vercel.app/api?username=josiah34&show_icons=true&theme=radical)
  
 
 ## About me
