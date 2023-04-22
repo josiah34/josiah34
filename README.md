@@ -11,7 +11,7 @@
  
 
 ## About me
-- :school: I am a senior in the Computer Programming and Analysis program at George Brown College (Graduating April 2023)
+- :school: I am new grad from the Computer Programming and Analysis program at George Brown College
 - :trophy: Dean's List, Top 1% on TryHackMe []()
 - :seedling: Currently studying to obtain my `AWS CCP, CompTIA Security+ and Network+` certifications
 - :nerd_face: Always `learning new things`
