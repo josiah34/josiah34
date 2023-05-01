@@ -15,6 +15,7 @@
 - :trophy: Dean's List, Top 1% on TryHackMe []()
 - :seedling: Currently studying to obtain my `AWS CCP, CompTIA Security+ and Network+` certifications
 - :nerd_face: Always `learning new things`
+- Learning <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 <br>
 
