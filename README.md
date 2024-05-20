@@ -11,7 +11,6 @@
  
 
 ## About me
-- :trophy: Dean's List, Top 1% on TryHackMe []()
 - :seedling: Currently studying to obtain my `AWS CCP, CompTIA Security+ and Network+` certifications
 - :nerd_face: Always `learning new things`
 
